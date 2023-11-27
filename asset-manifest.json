@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/siyahitask/static/css/main.d0c674ea.css",
+    "main.js": "/siyahitask/static/js/main.cdb5c863.js",
+    "static/media/logo.svg": "/siyahitask/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/siyahitask/index.html",
+    "main.d0c674ea.css.map": "/siyahitask/static/css/main.d0c674ea.css.map",
+    "main.cdb5c863.js.map": "/siyahitask/static/js/main.cdb5c863.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0c674ea.css",
+    "static/js/main.cdb5c863.js"
+  ]
+}
